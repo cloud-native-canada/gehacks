@@ -16,13 +16,13 @@ Write the System Instructions (prompts) for both the Main Agent and your analyti
 
 **Learning Resources:**
 
-- [Prompting best practices for AI agents](https://docs.cloud.google.com/gemini/enterprise/docs/agent-designer/create-agent#best_practices_for_creating_agents)
-- [Best practices for writing prompts to create an agent](https://docs.cloud.google.com/gemini/enterprise/docs/agent-designer/create-agent#best_practices_for_writing_prompts)
-- [Google Cloud: Prompt design strategies (Role, Context, Output formatting)](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/prompts/prompt-design-strategies)
-- [Google AI: Core prompting principles (Gemini models)](https://ai.google.dev/gemini-api/docs/prompting-strategies)
+* [Prompting best practices for AI agents](https://docs.cloud.google.com/gemini/enterprise/docs/agent-designer/create-agent#best_practices_for_creating_agents)
+* [Best practices for writing prompts to create an agent](https://docs.cloud.google.com/gemini/enterprise/docs/agent-designer/create-agent#best_practices_for_writing_prompts)
+* [Google Cloud: Prompt design strategies (Role, Context, Output formatting)](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/prompts/prompt-design-strategies)
+* [Google AI: Core prompting principles (Gemini models)](https://ai.google.dev/gemini-api/docs/prompting-strategies)
 
 **Tips:**
 
-- Use the "Role" and "Output Expectations" framework to organize your prompts.
-- Be explicit about tool usage (e.g., "Use the Google Calendar Tool to open a slot").
-- Leverage tools like the Gemini web app, the Gemini CLI, or other LLMs to help you brainstorm, draft, and refine your system prompts before testing them in Agent Designer.
+* Use the "Role" and "Output Expectations" framework to organize your prompts.
+* Be explicit about tool usage (e.g., "Use the Google Calendar Tool to open a slot").
+* Leverage tools like the Gemini web app, the Gemini CLI, or other LLMs to help you brainstorm, draft, and refine your system prompts before testing them in Agent Designer.
