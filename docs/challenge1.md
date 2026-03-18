@@ -1,7 +1,5 @@
-
-## Challenges
-
 ### Challenge 1: Analyze Training compliance using Data Insight Agent
+
 **Introduction:**
 
 Managers of each department need to understand team training compliance for Q1 2026 and send Director of HR report with latest status by the end of the day. The report should include:
@@ -18,6 +16,7 @@ The required data is stored in BigQuery Data Warehouse `learning_campaign_tracke
 
 
 **Description:**
+
 For this task you can use Google build Data Insight Agent (DIA) - `aiforeveryone-bq-dia`
 
 The Data Insights agent is an agent that's Made by Google. It gives you data insights from your BigQuery data. With the Data Insights agent, you don't need prior knowledge of SQL. This lets you make well-informed, data-driven business decisions and frees up data analysts to focus on more complex tasks.
