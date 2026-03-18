@@ -8,6 +8,11 @@ theme:
 ## Introduction
 Introduction to HR Training: We challenge you to build a system that automates the scheduling of required training along with providing a chatbot to help a manager and employee navigate the training requirements. This agent will simplify administrative tasks and provide a seamless learning experience for the organization.
 
+## Access Gemini Enterprise Environment
+
+Click [here](https://vertexaisearch.cloud.google.com/home/cid/9d0b50f0-a56f-4802-805a-98e622d223c8?hl=en_US) to access Gemini Enterprise Environment in your browser.
+
+
 ## Learning Objectives
 * Understand how to connect Large Language Models (LLMs) to enterprise data sources.
 * Learn to design and orchestrate a multi-agent system.
