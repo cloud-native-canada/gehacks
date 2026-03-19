@@ -10,7 +10,7 @@ Introduction to HR Training: We challenge you to build a system that automates t
 
 ## Access Gemini Enterprise Environment
 
-Click [here](https://vertexaisearch.cloud.google.com/home/cid/9d0b50f0-a56f-4802-805a-98e622d223c8?hl=en_US) to access Gemini Enterprise Environment in your browser.
+Click [here]to access Gemini Enterprise Environment in your browser.
 
 
 ## Learning Objectives
